@@ -1,2 +1,5 @@
-# animated-map-lineplot
-This code helps you visualize global data on violence on animated map and lineplot using R
+# Animated map and lineplot with R
+
+This code combines a map and lineplot of global violence against civilians into a single animated plot, using R 😎.
+
+
